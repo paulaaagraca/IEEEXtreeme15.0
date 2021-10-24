@@ -1,0 +1,2 @@
+#include <stdio.h>#include <string.h> 
+int main(){char *t="z NraAgeUmLvrdr",n[19],*i,*f="z__M________W_A";scanf("%[^\n]s",n);i=strchr(t,(int)n[strlen(n)-2]);printf("%ld\n",*i==114?strchr(f,(int)n[0])-f:i-t);}
