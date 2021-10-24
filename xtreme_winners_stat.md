@@ -34,3 +34,11 @@ The first line of your output should contain a single integer between 11 and 141
 - You must solve all tests, including the examples, correctly to get any points.
 - The scoring function will be (\frac{\text{ShortestCode}}{\text{YourSourceLength}})^2 , where \text{ShortestCode}ShortestCode is the shortest competitor code that passes all tests.
 - For convenience, whitespaces in the beginning and end of the solution code will be ignored. All the other characters are counted.
+
+## Input	 |   Output
+```
+Team 1        1
+```
+```
+Aurora        14
+```
