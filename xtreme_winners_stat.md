@@ -6,6 +6,7 @@ The programs which correctly solve all 1414 years will be scored by the number o
 
 We're also making it incredibly easy for you, by just giving your the chronological list of winners:
 
+```
 Team 1
 Knapsackers@UNT
 MoraSeekers
@@ -20,7 +21,7 @@ whatevs
 WildCornAncestors
 TheCornInTheFields
 Aurora
-
+```
 
 ## Standard input
 The first line will contain the name of a team that won a past Xtreme.
