@@ -1,4 +1,7 @@
-# Xtreme Winners
+# [Xtreme Winners](https://csacademy.com/ieeextreme15/task/xtreme-winners/)
+
+Time limit: 500 ms
+Memory limit: 256 MB
 
 Write a program that reads an IEEEXtreme winner team name and prints the number of the competition edition they won.
 
